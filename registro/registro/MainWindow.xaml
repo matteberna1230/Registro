@@ -13,7 +13,9 @@
         <TextBlock HorizontalAlignment="Left" Margin="89,76,0,0" TextWrapping="Wrap" Text="Nome:" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Height="16" Margin="389,76,0,0" TextWrapping="Wrap" Text="Cognome:" VerticalAlignment="Top" Width="52"/>
         <Button x:Name="btnVisualizza" Content="Visualizza" HorizontalAlignment="Left" Margin="89,217,0,0" VerticalAlignment="Top" Height="87" Width="165" Click="btnVisualizza_Click"/>
-        <ListBox x:Name="lstVisualizza" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="362,217,295,64"/>
+        <ListBox x:Name="lstVisualizza" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="389,200,268,81"/>
+        <Button x:Name="btnElimina" Content="Elimina" HorizontalAlignment="Left" Height="68" Margin="89,356,0,0" VerticalAlignment="Top" Width="165" Click="btnElimina_Click"/>
+        <TextBox x:Name="txtDato" HorizontalAlignment="Left" Height="37" Margin="368,387,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="143"/>
 
     </Grid>
 </Window>

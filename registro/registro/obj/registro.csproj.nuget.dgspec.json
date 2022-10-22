@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matteo.bernardi\\source\\repos\\registro\\registro\\registro.csproj": {}
+    "C:\\Users\\prof.lucchi\\Desktop\\GIT4E\\ProgettoBernardi\\Registro\\registro\\registro\\registro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matteo.bernardi\\source\\repos\\registro\\registro\\registro.csproj": {
+    "C:\\Users\\prof.lucchi\\Desktop\\GIT4E\\ProgettoBernardi\\Registro\\registro\\registro\\registro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matteo.bernardi\\source\\repos\\registro\\registro\\registro.csproj",
+        "projectUniqueName": "C:\\Users\\prof.lucchi\\Desktop\\GIT4E\\ProgettoBernardi\\Registro\\registro\\registro\\registro.csproj",
         "projectName": "registro",
-        "projectPath": "C:\\Users\\matteo.bernardi\\source\\repos\\registro\\registro\\registro.csproj",
-        "packagesPath": "C:\\Users\\matteo.bernardi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matteo.bernardi\\source\\repos\\registro\\registro\\obj\\",
+        "projectPath": "C:\\Users\\prof.lucchi\\Desktop\\GIT4E\\ProgettoBernardi\\Registro\\registro\\registro\\registro.csproj",
+        "packagesPath": "C:\\Users\\prof.lucchi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prof.lucchi\\Desktop\\GIT4E\\ProgettoBernardi\\Registro\\registro\\registro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matteo.bernardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prof.lucchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
