@@ -1,0 +1,5 @@
+C:\Users\matteo.bernardi\source\repos\registro\registro\obj\Debug\net6.0-windows\registro.csproj.AssemblyReference.cache
+C:\Users\matteo.bernardi\source\repos\registro\registro\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\matteo.bernardi\source\repos\registro\registro\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\matteo.bernardi\source\repos\registro\registro\obj\Debug\net6.0-windows\registro_MarkupCompile.cache
+C:\Users\matteo.bernardi\source\repos\registro\registro\obj\Debug\net6.0-windows\registro_MarkupCompile.lref
